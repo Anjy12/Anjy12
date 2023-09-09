@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Anjy12
+- 👀 I’m interested in Physics, Cybersecurity and Politics
+- 🌱 I’m currently learning Python and Javascript
